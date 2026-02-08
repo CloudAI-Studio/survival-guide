@@ -27,5 +27,8 @@ features:
   - title: 娱乐
     details: 娱乐指南
     link: /fun
+  - title: 生活
+    details: 生活相关
+    link: /live
 ---
 

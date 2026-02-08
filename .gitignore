@@ -3,3 +3,7 @@ node_modules/
 # vitepress and node.js
 .vitepress/cache
 .vitepress/dist
+
+# mac
+._*
+.DS_Store
